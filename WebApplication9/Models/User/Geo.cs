@@ -1,0 +1,8 @@
+﻿namespace WebApplication9.Models.User
+{
+    public class Geo
+    {
+        public string Lat { get; set; }
+        public string Lng { get; set; }
+    }
+}
