@@ -24,14 +24,14 @@ namespace WebApplication9.Controllers
             //    {
             //        Id=1,
             //        Name="Hristo",
-            //        Email="hristo@sbtech.com",
+            //        Email="hristo@adslkfj.com",
             //        Phone="02398423",
             //        UserName="Hristo.a",
             //        Website = "fsdsfd.com",
             //        Address = new Address
             //        {
-            //            City = "Plovdiv",
-            //            Street = "Varshava",
+            //            City = "fdsa",
+            //            Street = "asdf",
             //            Suite = "6",
             //            Zipcode = "4000",
             //            Geo = new Geo
@@ -42,7 +42,7 @@ namespace WebApplication9.Controllers
             //        },
             //        Company = new Company
             //        {
-            //            Name = "Sbtech",
+            //            Name = "dasf",
             //            CatchPhrase = "fsdfsdfs",
             //            Bs = "fsdfsd"
             //        }
@@ -50,14 +50,14 @@ namespace WebApplication9.Controllers
             //    {
             //        Id=1,
             //        Name="Zirgo",
-            //        Email="hristo@sbtech.com",
+            //        Email="hristo@fasd.com",
             //        Phone="02398423",
-            //        UserName="Hristo.a",
+            //        UserName="fads.a",
             //        Website = "fsdsfd.com",
             //        Address = new Address
             //        {
-            //            City = "Plovdiv",
-            //            Street = "Varshava",
+            //            City = "fdas",
+            //            Street = "fads",
             //            Suite = "6",
             //            Zipcode = "4000",
             //            Geo = new Geo
@@ -68,7 +68,7 @@ namespace WebApplication9.Controllers
             //        },
             //        Company = new Company
             //        {
-            //            Name = "Sbtech",
+            //            Name = "fdasf",
             //            CatchPhrase = "fsdfsdfs",
             //            Bs = "fsdfsd"
             //        }
